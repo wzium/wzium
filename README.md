@@ -13,5 +13,5 @@ Not to disappoint you, but I wouldn't look for any high-quality code here. I'm s
 
 **Feel free to report any bugs and spot my mistakes, it will help me get better at coding!**
 
-<!--![Stats](https://github-readme-stats.vercel.app/api?username=wzium&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wzium&layout=compact&hide=vbscript,tsql)-->
+![Stats](https://github-readme-stats.vercel.app/api?username=wzium&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
+<!--![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wzium&layout=compact&hide=vbscript,tsql)-->
