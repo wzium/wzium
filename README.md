@@ -1,4 +1,4 @@
-![Wzium](https://img.shields.io/badge/wzium-true-green) ![Discord](https://img.shields.io/badge/discord-jjay31%234857-%237289DA?logo=discord&logoColor=white)
+![Wzium](https://img.shields.io/badge/wzium-true-green) ![jjay](https://img.shields.io/badge/jjay-v3.1-blue) ![Discord](https://img.shields.io/badge/discord-jjay31%234857-%237289DA?logo=discord&logoColor=white)
 
 ### Hi there 👋
 
