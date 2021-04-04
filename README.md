@@ -1,17 +1,29 @@
 ![Wzium](https://img.shields.io/badge/wzium-true-green) ![jjay](https://img.shields.io/badge/jjay-v3.1-blue) ![Discord](https://img.shields.io/badge/discord-jjay31%234857-%237289DA?logo=discord&logoColor=white)
 
 ### Hi there 👋
+```python
+from __future__ import Java as my_next_goal
 
-I'm *wzium*, but most people recognise me from my *jjay31* nickname. I'm a programming student from Poland.\
-I believe that one day I can become a professional developer, but for now, I'm only a newbie.
 
-My main language is **Python**, but I want to learn some **Java** in near future.\
-Ahh.. I almost forgot about the **C** which is my primary language at the university.\
-I might post some code written in **C** here if I find it being good enough.
+class Wzium(jjay31, Life):
+    def __init__(self):
+        self.hobbies: List[type] = [Cooking, PlayingGames, ListeningToMusic, Programming, Photography]
+        self.languages: List[str] = ["Python", "C", "C++"]
+        self.skills: List[object] = [PlayingGuitar, Dietetics]
+        self.lazy: bool = random.choice([True, False])  # it depends
+        self.beginner: bool = True
 
-Not to disappoint you, but I wouldn't look for any high-quality code here. I'm still a begginer. 
+    def __del__(self):
+        print("Feel free to report any bugs and spot my mistakes, it will help me get better at coding!")
 
-**Feel free to report any bugs and spot my mistakes, it will help me get better at coding!**
+    def how_do_i_feel(self) -> str:
+        if self.lazy:
+            play_games()
+        else:
+            do_something_productive()
+        return "I would be way better at programming if I didn't play games that much."
 
-![Stats](https://github-readme-stats.vercel.app/api?username=wzium&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wzium&layout=compact&hide=vbscript,tsql)
+    def get_projects(self) -> List[type[Project]]:
+        print("Check out my repositories!")
+        return Project.get_projects()
+```
