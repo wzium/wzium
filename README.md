@@ -7,9 +7,9 @@ from __future__ import Java as my_next_goal
 
 class Wzium(jjay31, Life):
     def __init__(self):
-        self.hobbies: List[type] = [Cooking, PlayingGames, ListeningToMusic, Programming, Photography]
+        self.hobbies: List[type] = [Dietetics, PlayingGames, ListeningToMusic, Programming, Photography]
         self.languages: List[str] = ["Python", "C", "C++"]
-        self.skills: List[object] = [PlayingGuitar, Dietetics]
+        self.skills: List[object] = [PlayingGuitar(), Cooking()]
         self.lazy: bool = random.choice([True, False])  # it depends
         self.beginner: bool = True
 
