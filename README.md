@@ -2,13 +2,13 @@
 
 ### Hi there 👋
 ```python
-from __future__ import Piano as my_next_goal
+from __future__ import Django as my_next_goal
 
 
 class Wzium(jjay31, Life):
     def __init__(self):
-        self.hobbies: List[type] = [Dietetics, PlayingGames, ListeningToMusic, Programming, Photography]
-        self.languages: List[str] = ["Python", "C", "C++", "Java"]
+        self.hobbies: List[type] = [Dietetics, PlayingGames, ListeningToMusic, Programming, Photography, YerbaMate]
+        self.languages: List[str] = ["Python", "C", "C++", "C#", "Java"]
         self.skills: List[object] = [PlayingGuitar(), Cooking()]
         self.lazy: bool = random.choice([True, False])  # it depends
         self.beginner: bool = True
